@@ -1,0 +1,1 @@
+﻿var _0x3eac=["\x72\x61\x6E\x64\x6F\x6D","\x66\x6C\x6F\x6F\x72"];var y=Math[_0x3eac[1]]((Math[_0x3eac[0]]()*5)+0)
